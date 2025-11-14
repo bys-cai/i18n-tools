@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "Statusänderung fehlgeschlagen",
+  "changeStatusSuccess": "Statusänderung erfolgreich",
+  "constraintError": "Operation fehlgeschlagen: Datenkonflikt",
+  "createFailed": "Neues erstellen fehlgeschlagen",
+  "createSuccess": "Erfolgreich neu erstellt",
+  "databaseError": "Datenbankfehler",
+  "deleteFailed": "Löschen fehlgeschlagen",
+  "deleteSuccess": "Löschen erfolgreich",
+  "failed": "Scheitern",
+  "languageNotExist": "Es gibt kein Sprachpaket für die ausgewählte Sprache",
+  "notSingularError": "Operation fehlgeschlagen: Daten nicht einzigartig",
+  "permissionDeny": "Benutzer haben keinen Zugriff auf diese Schnittstelle",
+  "queryError": "Abfrage der Daten fehlgeschlagen",
+  "redisError": "Redis Fehler",
+  "serviceUnavailable": "Der Dienst ist nicht verfügbar. Bitte überprüfen Sie, ob der Dienst aktiviert ist.",
+  "success": "Erfolg",
+  "targetNotExist": "Ziel existiert nicht",
+  "updateFailed": "Aktualisierung fehlgeschlagen",
+  "updateSuccess": "Aktualisierung erfolgreich",
+  "user": {
+    "userNotExist": "Der Benutzer existiert nicht",
+    "userNotLogin": "Benutzer nicht angemeldet"
+  },
+  "validationError": "Operation fehlgeschlagen: Überprüfung fehlgeschlagen"
+}
