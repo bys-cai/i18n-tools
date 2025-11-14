@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "La modification du statut a échoué",
+  "changeStatusSuccess": "Modification de statut réussie",
+  "constraintError": "Échec de l'opération: conflit de données",
+  "createFailed": "La nouvelle construction a échoué",
+  "createSuccess": "Nouvelle construction réussie",
+  "databaseError": "Erreur de base de données",
+  "deleteFailed": "La suppression a échoué",
+  "deleteSuccess": "Supprimer avec succès",
+  "failed": "échec",
+  "languageNotExist": "Aucun pack de langue n'existe pour la langue sélectionnée",
+  "notSingularError": "L'opération a échoué: les données ne sont pas uniques",
+  "permissionDeny": "L'utilisateur n'a pas accès à cette interface",
+  "queryError": "Échec de la requête de données",
+  "redisError": "Erreur redis",
+  "serviceUnavailable": "Service indisponible, vérifiez si le service est activé",
+  "success": "Succès",
+  "targetNotExist": "La cible n'existe pas",
+  "updateFailed": "La mise à jour a échoué",
+  "updateSuccess": "Mise à jour réussie",
+  "user": {
+    "userNotExist": "L'utilisateur n'existe pas",
+    "userNotLogin": "L'utilisateur n'est pas connecté"
+  },
+  "validationError": "Échec de l'opération: Échec du contrôle"
+}

@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "Modifica dello stato non riuscita",
+  "changeStatusSuccess": "Modifica dello stato con successo",
+  "constraintError": "Operazione non riuscita: conflitto dati",
+  "createFailed": "Nuova creazione non riuscita",
+  "createSuccess": "Nuovo successo",
+  "databaseError": "Errore del database",
+  "deleteFailed": "Eliminazione non riuscita",
+  "deleteSuccess": "Eliminazione riuscita",
+  "failed": "fallimento",
+  "languageNotExist": "Non esistono pacchetti linguistici per la lingua selezionata",
+  "notSingularError": "Operazione non riuscita: dati non unici",
+  "permissionDeny": "L'utente non ha accesso a questa interfaccia",
+  "queryError": "Query dei dati non riuscita",
+  "redisError": "Errore di Redis",
+  "serviceUnavailable": "Servizio non disponibile, controlla se è attivato",
+  "success": "successo",
+  "targetNotExist": "L'obiettivo non esiste.",
+  "updateFailed": "Aggiornamento non riuscito",
+  "updateSuccess": "Aggiornamento riuscito",
+  "user": {
+    "userNotExist": "L'utente non esiste",
+    "userNotLogin": "Utente non connesso"
+  },
+  "validationError": "Operazione fallita: verifica fallita"
+}

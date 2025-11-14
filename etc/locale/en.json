@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "Status modification failed",
+  "changeStatusSuccess": "Status modification successful",
+  "constraintError": "Operation failed: Data conflict",
+  "createFailed": "Failed to create",
+  "createSuccess": "Successfully created",
+  "databaseError": "Database error",
+  "deleteFailed": "Deletion failed",
+  "deleteSuccess": "Deleted successfully",
+  "failed": "failure",
+  "languageNotExist": "The selected language does not have a language pack",
+  "notSingularError": "Operation failed: Data is not unique",
+  "permissionDeny": "The user does not have permission to access this interface",
+  "queryError": "Data query failed",
+  "redisError": "Redis error",
+  "serviceUnavailable": "Service unavailable, please check if the service is enabled",
+  "success": "success",
+  "targetNotExist": "target does not exist",
+  "updateFailed": "Update failed",
+  "updateSuccess": "Update successful",
+  "user": {
+    "userNotExist": "User does not exist",
+    "userNotLogin": "User not logged in"
+  },
+  "validationError": "Operation failed: Verification failed"
+}

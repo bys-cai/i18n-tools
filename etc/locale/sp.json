@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "Falló la modificación del Estado",
+  "changeStatusSuccess": "Modificación exitosa del Estado",
+  "constraintError": "Operación fallida: conflicto de datos",
+  "createFailed": "Falló la nueva construcción",
+  "createSuccess": "Nueva construcción exitosa",
+  "databaseError": "Error en la base de datos",
+  "deleteFailed": "Falló la eliminación",
+  "deleteSuccess": "Eliminación exitosa",
+  "failed": "fracaso",
+  "languageNotExist": "El paquete de idiomas no existe en el idioma seleccionado",
+  "notSingularError": "Falló la operación: los datos no son únicos",
+  "permissionDeny": "Los usuarios no tienen permisos para acceder a esta interfaz",
+  "queryError": "Falló la consulta de datos",
+  "redisError": "Error de redis",
+  "serviceUnavailable": "El servicio no está disponible, verifique si el servicio está habilitado",
+  "success": "éxito",
+  "targetNotExist": "El objetivo no existe",
+  "updateFailed": "Actualización fallida",
+  "updateSuccess": "Actualización exitosa",
+  "user": {
+    "userNotExist": "El usuario no existe",
+    "userNotLogin": "El usuario no está conectado"
+  },
+  "validationError": "Falló la operación: falló la verificación"
+}

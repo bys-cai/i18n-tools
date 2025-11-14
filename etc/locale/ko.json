@@ -1,0 +1,26 @@
+{
+  "changeStatusFailed": "상태 수정 실패",
+  "changeStatusSuccess": "상태 수정 성공",
+  "constraintError": "작업 실패: 데이터 충돌",
+  "createFailed": "새로 만들기 실패",
+  "createSuccess": "새로 만들기 성공",
+  "databaseError": "데이터베이스 오류",
+  "deleteFailed": "삭제 실패",
+  "deleteSuccess": "삭제 성공",
+  "failed": "실패",
+  "languageNotExist": "선택한 언어에 언어 팩이 없습니다.",
+  "notSingularError": "작업 실패: 데이터가 고유하지 않음",
+  "permissionDeny": "사용자는 이 인터페이스에 액세스할 수 없습니다.",
+  "queryError": "데이터 질의 실패",
+  "redisError": "Redis 오류",
+  "serviceUnavailable": "서비스를 사용할 수 없습니다. 서비스가 활성화되었는지 확인하십시오.",
+  "success": "성공",
+  "targetNotExist": "대상이 없습니다.",
+  "updateFailed": "업데이트 실패",
+  "updateSuccess": "업데이트 성공",
+  "user": {
+    "userNotExist": "사용자가 없습니다.",
+    "userNotLogin": "사용자가 로그인하지 않았습니다."
+  },
+  "validationError": "작업 실패: 검증 실패"
+}
